@@ -1,4 +1,4 @@
-# regex-matcher
+# SequenceL Regex
 A complete SequenceL regular expression library in C++ with an array of match functions
 
 This project is an implementation of the SequenceL regular expression library. SequenceL is a small,
